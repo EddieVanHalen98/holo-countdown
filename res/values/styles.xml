@@ -1,0 +1,11 @@
+<resources>
+    
+    <style name="AppBaseTheme" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@android:color/holo_orange_light</item>
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+		
+    </style>
+
+</resources>
